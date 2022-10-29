@@ -1,0 +1,12 @@
+@import "mis.css";
+@import "light.css";
+body{
+    background-color: black;
+    color: white;
+}
+.pop_up,.pop_up0{
+    color: rgb(38, 35, 35);
+}
+.navi{
+    background-color: aquamarine;
+}

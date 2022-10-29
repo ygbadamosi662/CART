@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navi{
+    display: flex;
+    height: 4rem;
+    width: 100%;
+    background-color: #a9c7da;
+    justify-content: left;
+    gap: 3rem;
+    align-items: center;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+}
+.navi a{
+    text-decoration: none;
+    background-color: #ebe438;
+    height: 2rem;
+    padding: 5px 5px 5px 5px;   
+    border-radius: 5px;
+    color: black;
+    width: 5rem;
+    text-align: center;
+}
+.fTot{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+}
