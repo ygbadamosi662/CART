@@ -32,7 +32,7 @@
     </nav>
     
     <div class="fTot">
-        <h3><?php echo $_SESSION["light_dark"] == "dark" ? "Hey ".$_SESSION["you"] . "," . " the night owl." : "Hey ".$_SESSION["you"] . "," . " the early bird.";?></h3>
+        <h2><?php echo $_SESSION["light_dark"] == "dark" ? "Hey ".$_SESSION["you"] . "," . " the night owl." : "Hey ".$_SESSION["you"] . "," . " the early bird.";?></h2>
         <p>
             Whats beautiful? <br>
             I had a friend at some point in my life,he had this gf in school,he was in Akungba at the time(i think)...whenever he talks about this girl you would think he was talking about beyonce or something,i mean its cool,well it was cool until he showed me a pic of her and i was dissapointed to say the least,she is not ugly at all but she is most definately not beyonce(not even close).It was like being promised a buggati and then all you got was a benz,ofcourse a benz is nice but its not a bugatti(just go with any spelling of my "bugati"). <br>
